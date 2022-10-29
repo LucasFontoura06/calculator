@@ -119,7 +119,6 @@ def calculadoraDivisao():
 
 def main():
   menu1()
-  # menu2()
   respostaDoUsuario()
   calculadoraSoma()
   calculadoraSubtracao()
